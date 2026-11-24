@@ -89,3 +89,21 @@ To simplify SQL learning and database interaction using Generative AI, while hel
 Vaishnavi Ghangale
 
 Data Science Learner | Aspiring Data Analyst
+
+## 📸 Application Screenshots
+
+### Main Interface
+![main interface](screenshots/main.png)
+
+### Generate SQL
+![Generated Query](screenshots/generate.png)
+
+### Explain SQL
+![Query Explaination](screenshots/explain.png)
+
+### Execute SQL
+![Executed Query](screenshots/execute.png)
+
+### Error Fix SQL
+![Fixing Errors](screenshots/execute.png)
+
